@@ -26,10 +26,10 @@ export default {
     {
         name:'image',
         title:'Image',
-        type:'string',
-        options:{
-            hotspot:true
-        }
+        type:'image',
+        options: {
+            hotspot: true 
+          },
     },
     {
         name:'userId',
